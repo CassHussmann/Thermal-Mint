@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "ThermalMint")(type "KiCad")(uri "${KIPRJMOD}/Library/ThermalMint.pretty")(options "")(descr ""))
+)
