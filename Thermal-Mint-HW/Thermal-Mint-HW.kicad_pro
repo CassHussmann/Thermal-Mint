@@ -33,9 +33,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.762,
-          "height": 1.524,
-          "width": 1.524
+          "drill": 0.0,
+          "height": 1.0,
+          "width": 0.5
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -448,7 +448,7 @@
     ],
     [
       "05362620-f0db-47e1-a775-1d591d1f6bd7",
-      "TM-GPO"
+      "TM-GPIO"
     ],
     [
       "83b0ef99-b7dd-4e99-962a-68a30f40fb59",
