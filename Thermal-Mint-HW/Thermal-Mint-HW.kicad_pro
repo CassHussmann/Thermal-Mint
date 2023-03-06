@@ -500,30 +500,6 @@
     [
       "7dad3818-f54b-4af4-a4f7-79b6852b1ec8",
       ""
-    ],
-    [
-      "7f4ef22e-383c-44d0-a749-a425b77dad15",
-      "TM-ESP32"
-    ],
-    [
-      "60a0ac22-a2c4-49bb-9850-4c124eae32e8",
-      "ADS1220_1"
-    ],
-    [
-      "7b8bd6c3-114a-433d-a8eb-051e0acf6c68",
-      "ADS1220_2"
-    ],
-    [
-      "897cccfd-cc40-4fc9-9dc9-6b4375670d88",
-      "TM-Power"
-    ],
-    [
-      "05362620-f0db-47e1-a775-1d591d1f6bd7",
-      "TM-GPIO"
-    ],
-    [
-      "83b0ef99-b7dd-4e99-962a-68a30f40fb59",
-      "TM-SDCard"
     ]
   ],
   "text_variables": {}
